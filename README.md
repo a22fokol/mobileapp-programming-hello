@@ -3,7 +3,8 @@
 
 
 
-Jag ändrade values string "Hello" till "Hi mother, i love you"
+Jag ändrade values string "Hello" till "Hi mother, i love you" och har tagit en screeshoot som fimns
+nedan i rapporten. Coden som byttes är också lagt nedan rapporten. 
 
 
 
